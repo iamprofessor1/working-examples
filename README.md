@@ -1,4 +1,2 @@
-# Demo Repo 
+# random tings
 
-Final change, last commit. 
-Git is cool!
